@@ -14,9 +14,9 @@ ini_set(“display_errors”, 0 );
 
 //produção
 $hostname="localhost";
-$username="id19553978_shelfgera";
-$password="/?aW>D@^1kl}8?y";
-$dbnome="id19553978_dbbiblioteca";
+$username="user";
+$password="senha";
+$dbnome="dbnome";
 
 
 $conn=mysqli_connect($hostname,$username,$password,$dbnome);
