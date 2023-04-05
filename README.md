@@ -1,8 +1,9 @@
-# shelfgera
-Trabalho de conclusão de curso Informática para internet pelo Centro Estadual de Educação Tecnológica Paula Souza - 2020/2022
+Apresento aqui meu Trabalho de Conclusão de Curso (TCC) desenvolvido no Centro Paula Souza, como requisito para a conclusão do curso Técnico de Informática para Internet. Meu projeto, denominado Shelfgera, é um gerenciador e catálogo de livros para bibliotecas, com funcionalidades de cadastro, atualização e exclusão de registros.
 
-Shelfgera é um gerenciador e catalogo de livros para biblioteca, que virtualiza o cadastro, atualização e exclusão de materiais didáticos.
+Utilizando tecnologias de ponta, desenvolvi o projeto em PHP puro com banco de dados MySQLi e aprimorei a experiência do usuário com a inclusão do framework Bootstrap para HTML, CSS e JS. Além disso, adotei as melhores práticas de desenvolvimento de software, como a utilização do padrão CRUD (Create, Read, Update, Delete) para garantir a eficiência e a escalabilidade do sistema.
 
-Projeto desenvolvido em Php puro com banco de dados Mysqli e bootstrap (html, css e js).
+O Shelfgera tem como objetivo auxiliar bibliotecas a gerenciarem seus acervos de forma mais eficiente e organizada. Com uma interface intuitiva e amigável, é fácil cadastrar e atualizar informações sobre os livros, incluindo título, autor, editora, ano de publicação e outras características relevantes. Com a função de exclusão, a biblioteca pode remover livros que não fazem mais parte do seu acervo, mantendo o catálogo sempre atualizado.
 
-Acesso disponível em: https://shelfgera.com.br
+Em suma, o Shelfgera é um projeto inovador e útil para bibliotecas que buscam otimizar seus processos de gerenciamento de livros. Agradeço pela oportunidade de compartilhar meu trabalho e fico à disposição para qualquer dúvida ou esclarecimento.
+
+Acesso disponível em: link fora do ar :(
