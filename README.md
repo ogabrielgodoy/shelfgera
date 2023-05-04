@@ -4,6 +4,4 @@ Utilizando tecnologias de ponta, desenvolvi o projeto em PHP puro com banco de d
 
 O Shelfgera tem como objetivo auxiliar bibliotecas a gerenciarem seus acervos de forma mais eficiente e organizada. Com uma interface intuitiva e amigável, é fácil cadastrar e atualizar informações sobre os livros, incluindo título, autor, editora, ano de publicação e outras características relevantes. Com a função de exclusão, a biblioteca pode remover livros que não fazem mais parte do seu acervo, mantendo o catálogo sempre atualizado.
 
-Em suma, o Shelfgera é um projeto inovador e útil para bibliotecas que buscam otimizar seus processos de gerenciamento de livros.
-
-Acesso disponível em: link fora do ar :(
+Em suma, o Shelfgera é útil para bibliotecas que buscam otimizar seus processos de gerenciamento de livros.
