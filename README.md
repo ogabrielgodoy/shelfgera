@@ -28,8 +28,7 @@ O Shelfgera tem como objetivo principal ajudar bibliotecas a aprimorar o gerenci
 
 Para executar o projeto localmente, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/seurepositorio.git`
-2. Abra o arquivo `index.html` em seu navegador.
+1. Clone o repositório: `git clone https://github.com/ogabrielgodoy/shelfgera.git`
 
 ## Contribuições
 
